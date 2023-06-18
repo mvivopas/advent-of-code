@@ -2,10 +2,9 @@
 Advent of code 2022
 
 
-### impros
+### improvement todo list
 
-* add type hints
-* add descrs to funcs
-* add link to advent
-* readme
-* helpers or utils ??
+* Add Type Hints
+* Add a helpers script
+* Add curate descriptions to functions
+* Set aside some time to write the README
